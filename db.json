@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "id": "4",
+      "name": "Handcrafted Plastic Shoes",
+      "image": "http://placeimg.com/640/480/technics",
+      "price": "405.00",
+      "quantity": "90",
+      "category": "category 1"
+    },
+    {
+      "name": "Tasty Metal Shirt",
+      "image": "http://placeimg.com/640/480/fashion",
+      "price": "646.00",
+      "quantity": 89,
+      "category": "category 2",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "name": "Demo04",
+      "price": "100000",
+      "quantity": "70",
+      "image": "http://placeimg.com/640/480/people"
+    },
+    {
+      "name": "Fantastic Plastic Tuna",
+      "image": "http://placeimg.com/640/480/nature",
+      "price": "850.00",
+      "quantity": 82,
+      "category": "category 3",
+      "id": "7"
+    },
+    {
+      "name": "Small Granite Shirt",
+      "image": "http://placeimg.com/640/480/nightlife",
+      "price": "765.00",
+      "quantity": 59,
+      "category": "category 3",
+      "id": "8"
+    },
+    {
+      "name": "Rustic Concrete Chair",
+      "image": "http://placeimg.com/640/480/sports",
+      "price": "400.00",
+      "quantity": 22,
+      "category": "category 4",
+      "id": "9"
+    },
+    {
+      "name": "Gorgeous Plastic Fish",
+      "image": "http://placeimg.com/640/480/nightlife",
+      "price": "241.00",
+      "quantity": 31,
+      "category": "category 4",
+      "id": "10"
+    },
+    {
+      "name": "Fantastic Cotton Bacon",
+      "image": "http://placeimg.com/640/480/city",
+      "price": "615.00",
+      "quantity": 7,
+      "category": "category 1",
+      "id": "11"
+    },
+    {
+      "name": "Incredible Metal Table",
+      "image": "http://placeimg.com/640/480/business",
+      "price": "448.00",
+      "quantity": 72,
+      "category": "category 2",
+      "id": "12"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "category 1"
+    },
+    {
+      "id": "2",
+      "name": "category 2"
+    },
+    {
+      "id": "3",
+      "name": "category 3"
+    },
+    {
+      "id": "4",
+      "name": "category 4"
+    },
+    {
+      "id": 5,
+      "name": "Demo"
+    },
+    {
+      "id": 6,
+      "name": "Máy tính xách tay"
+    }
+  ],
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "phonenumber": "0986001784",
+      "password": "123456",
+      "image": "http://placeimg.com/640/480/people",
+      "id": 1
+    },
+    {
+      "name": "Nguyen Van Anh",
+      "email": "anhnv@gmail.com",
+      "phonenumber": "0986001785",
+      "password": "654321",
+      "image": "http://placeimg.com/640/480/people",
+      "id": 2
+    },
+    {
+      "name": "nguyenvandong",
+      "email": "dongnvph12075@fpt.edu.vn",
+      "phonenumber": "0986001786",
+      "password": "111111",
+      "image": "http://placeimg.com/640/480/people",
+      "id": 3
+    }
+  ]
+}
